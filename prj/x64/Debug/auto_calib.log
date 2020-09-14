@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(96): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(101): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(357): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(359): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(420): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(422): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(487): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(489): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(497): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(499): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(537): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(603): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tongji2018\desktop\excalib_data_autocollector_mtd\src\main.cpp(645): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  auto_calib.vcxproj -> C:\Users\tongji2018\Desktop\excalib_data_autocollector_mtd\prj\..\output\x64\Debug\auto_calib.exe

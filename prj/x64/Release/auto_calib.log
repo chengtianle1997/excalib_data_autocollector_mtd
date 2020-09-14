@@ -1,0 +1,17 @@
+﻿  cameractrl.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\cameractrl.cpp(185,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  camera_sdk.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\camera_sdk.cpp(480,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  cross_center.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\cross_center.cpp(229,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  main.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\main.cpp(413,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  crc.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\crc.cpp(229,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  gauss_cal.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\gauss_cal.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\gauss_cal.cpp(650,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  remote_ctrl.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\remote_ctrl.cpp(375,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  serial_port.cpp
+C:\Users\cheng\Desktop\GodEyes Project\excalib_data_autocollector\src\serial_port.cpp(343,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
